@@ -1,0 +1,15 @@
+total 56
+drwxr-x--- 9 muneezaamber muneezaamber 4096 Oct 16 04:32 .
+drwxr-xr-x 3 root         root         4096 Sep 12 12:57 ..
+-rw------- 1 muneezaamber muneezaamber 2356 Oct 10 10:52 .bash_history
+-rw-r--r-- 1 muneezaamber muneezaamber  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 muneezaamber muneezaamber 3771 Feb 13  2026 .bashrc
+drwx------ 2 muneezaamber muneezaamber 4096 Sep 12 13:37 .cache
+-rw-rw-r-- 1 muneezaamber muneezaamber  195 Oct 16 04:26 .gitconfig
+-rw-r--r-- 1 muneezaamber muneezaamber  807 Feb 13  2026 .profile
+drwx------ 2 muneezaamber muneezaamber 4096 Oct 16 04:20 .ssh
+drwxrwxr-x 3 muneezaamber muneezaamber 4096 Oct 10 06:18 Assignment01
+drwxrwxr-x 3 muneezaamber muneezaamber 4096 Oct  6 05:39 CC
+drwxrwxr-x 3 muneezaamber muneezaamber 4096 Oct 10 05:20 Gitea
+drwxrwxr-x 5 muneezaamber muneezaamber 4096 Oct 16 04:33 lab05-linux
+drwxrwxr-x 2 muneezaamber muneezaamber 4096 Sep 19 12:02 mylab
